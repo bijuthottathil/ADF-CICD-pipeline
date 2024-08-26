@@ -32,6 +32,8 @@ Trigger in place
 Job executed successfully
 ![image](https://github.com/user-attachments/assets/627e8f38-b510-420a-9580-8cdcec32f2dc)
 
+
+
 csv file is generated in adls storage
 ![image](https://github.com/user-attachments/assets/55040b30-ec6b-4c1c-9792-7e365ad0af51)
 
@@ -86,6 +88,7 @@ Adding settings for stages
 
 ![image](https://github.com/user-attachments/assets/7ca9c258-2548-4556-b93c-4dfd99f5e200)
 
+![image](https://github.com/user-attachments/assets/7339f479-baa2-4742-8648-6fee89edf280)
 
 Biju is still updating this repository
 
