@@ -94,6 +94,14 @@ For deployment, click trigger from Artifacts and update trigger details like bel
 
 ![image](https://github.com/user-attachments/assets/11fecdcb-3935-44e9-ad87-057c4ba66530)
 
+Testing relase manually from Azure Devops for testing
+
+![image](https://github.com/user-attachments/assets/78ec180d-3148-467c-957e-3f5cf98ffab3)
+
+I got error, because parallism was not enabled. For that we need to submit request to microsoft using  this link and provide organization url https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR5zsR558741CrNi6q8iTpANURUhKMVA3WE4wMFhHRExTVlpET1BEMlZSTCQlQCN0PWcu&route=shorturl
+
+![image](https://github.com/user-attachments/assets/379c53f8-80bc-4fb8-9803-96a58a199660)
+
 
 Biju is still updating this repository
 
