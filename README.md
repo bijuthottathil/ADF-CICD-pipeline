@@ -74,8 +74,11 @@ select Releases-- Pipeline
 ![image](https://github.com/user-attachments/assets/095bbd98-f127-42be-87a6-fd9fe2d74866)
 
 ![image](https://github.com/user-attachments/assets/1bc7d5ff-491d-4245-ae56-c0cc0b5d5105)
-
+Adding artifacts- it means source. our source is ARM template
 ![image](https://github.com/user-attachments/assets/52a97c9b-7690-4c99-a2c0-052dc03fed9c)
+
+Adding stages
+![image](https://github.com/user-attachments/assets/2d231518-2bd4-4004-af38-64027206efdd)
 
 
 Biju is still updating this repository
