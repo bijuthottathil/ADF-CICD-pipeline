@@ -90,6 +90,11 @@ Adding settings for stages
 
 ![image](https://github.com/user-attachments/assets/7339f479-baa2-4742-8648-6fee89edf280)
 
+For deployment, click trigger from Artifacts and update trigger details like below
+
+![image](https://github.com/user-attachments/assets/11fecdcb-3935-44e9-ad87-057c4ba66530)
+
+
 Biju is still updating this repository
 
 
