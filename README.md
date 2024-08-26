@@ -62,6 +62,11 @@ Azure Devops repository will looks like below
 
 ![image](https://github.com/user-attachments/assets/874ea144-fa91-40d8-9660-f7c371657068)
 
+additionally Azure Devops will create additional repository with ARM Templates
+
+![image](https://github.com/user-attachments/assets/fbc5d528-e5d3-42d3-8f13-6408572970ac)
+
+
 
 
 
