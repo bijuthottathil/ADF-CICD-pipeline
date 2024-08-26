@@ -11,4 +11,5 @@ Created new project and repo main
 Connect to Azure--> Azure Data Factory-- Load ADF Studio--> From git configuration--> connect to Azure Devops Organization and Repo
 ![image](https://github.com/user-attachments/assets/432e559b-a2f9-40e6-bfdc-16546de2de13)
 
-![image](https://github.com/user-attachments/assets/dd3b06d2-44d0-40d1-9121-92601ba1db3a)
+![image](https://github.com/user-attachments/assets/dd3b06d2-44d0-40d1-9121-92601ba1db3a) ![image](https://github.com/user-attachments/assets/30fb3e79-b4c9-4dc9-8223-71af3adf23bb)
+
