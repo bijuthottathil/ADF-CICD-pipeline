@@ -21,3 +21,45 @@ creating adf pipeline to copy arrayed json file to flatten and store it in adls 
 Dataflow is created 
 
 ![image](https://github.com/user-attachments/assets/888d28a8-b05b-4a57-b71f-6ce8f8c85f06)
+
+New pipeline ready to execute
+
+![image](https://github.com/user-attachments/assets/a328a0e0-0b03-4a4d-b549-968516ad6081)
+
+Trigger in place
+![image](https://github.com/user-attachments/assets/97388e94-25d6-4bf5-9225-e778930af44f)
+
+Job executed successfully
+![image](https://github.com/user-attachments/assets/627e8f38-b510-420a-9580-8cdcec32f2dc)
+
+csv file is generated in adls storage
+![image](https://github.com/user-attachments/assets/55040b30-ec6b-4c1c-9792-7e365ad0af51)
+
+![image](https://github.com/user-attachments/assets/b027e702-f676-4f72-b5bb-b0982ed2246d)
+
+Now will checkin these changes to main branch
+
+
+
+![image](https://github.com/user-attachments/assets/2c557255-7937-4005-9d39-1ca6cf5a2f03)
+
+After approval
+
+![image](https://github.com/user-attachments/assets/8c0e8f53-f9a1-4684-a7ee-9c88e5bf3a2c)
+
+After merging ADF allowed to publish changes to run pipeline
+
+![image](https://github.com/user-attachments/assets/041bb9c9-b59f-47bd-99f9-7dc389407b9f)
+
+Executed pipeline again. you can see successful pipeline run and result
+
+![image](https://github.com/user-attachments/assets/10ca3dc2-016c-4d29-8e7e-f7db7238be59)
+
+![image](https://github.com/user-attachments/assets/1229eee2-1638-4ce9-8060-7e0e4d05766d)
+
+
+
+
+
+
+
