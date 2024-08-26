@@ -18,3 +18,6 @@ creating adf pipeline to copy arrayed json file to flatten and store it in adls 
 
 ![image](https://github.com/user-attachments/assets/18a4b87a-7a07-409d-9560-be41a18e6124)
 
+Dataflow is created 
+
+![image](https://github.com/user-attachments/assets/888d28a8-b05b-4a57-b71f-6ce8f8c85f06)
