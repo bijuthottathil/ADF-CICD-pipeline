@@ -67,6 +67,12 @@ additionally Azure Devops will create additional repository with ARM Templates
 ![image](https://github.com/user-attachments/assets/fbc5d528-e5d3-42d3-8f13-6408572970ac)
 
 
+Next we will focus on creating release pipeline in Azure Devops to push code to Test environment. Make sure to disable below options from organization settings ![image](https://github.com/user-attachments/assets/e6a90637-14e1-4ea9-8754-01af849de131)
+
+select Releases-- Pipeline
+
+![image](https://github.com/user-attachments/assets/095bbd98-f127-42be-87a6-fd9fe2d74866)
+
 
 
 
