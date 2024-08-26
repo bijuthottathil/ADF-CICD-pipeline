@@ -79,6 +79,12 @@ Adding artifacts- it means source. our source is ARM template
 
 Adding stages
 ![image](https://github.com/user-attachments/assets/2d231518-2bd4-4004-af38-64027206efdd)
+![image](https://github.com/user-attachments/assets/4940d464-8f25-4f40-a414-a513515e96aa)
+
+Adding settings for stages
+![image](https://github.com/user-attachments/assets/7014d99b-f619-4c3e-8be2-ff185c333cdb)
+
+![image](https://github.com/user-attachments/assets/7ca9c258-2548-4556-b93c-4dfd99f5e200)
 
 
 Biju is still updating this repository
