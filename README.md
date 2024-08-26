@@ -58,6 +58,9 @@ Executed pipeline again. you can see successful pipeline run and result
 ![image](https://github.com/user-attachments/assets/1229eee2-1638-4ce9-8060-7e0e4d05766d)
 
 
+Azure Devops repository will looks like below
+
+![image](https://github.com/user-attachments/assets/874ea144-fa91-40d8-9660-f7c371657068)
 
 
 
