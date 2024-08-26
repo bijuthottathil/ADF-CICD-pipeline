@@ -8,4 +8,6 @@ Organization settings- connect to default Azure directory
 Created new project and repo main
 ![image](https://github.com/user-attachments/assets/7078bf63-2af1-4945-98ba-e23d2898282f)
 
+Connect to Azure--> Azure Data Factory-- Load ADF Studio--> From git configuration--> connect to Azure Devops Organization and Repo
+![image](https://github.com/user-attachments/assets/432e559b-a2f9-40e6-bfdc-16546de2de13)
 
