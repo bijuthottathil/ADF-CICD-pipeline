@@ -13,7 +13,8 @@ Connect to Azure--> Azure Data Factory-- Load ADF Studio--> From git configurati
 
 ![image](https://github.com/user-attachments/assets/dd3b06d2-44d0-40d1-9121-92601ba1db3a) ![image](https://github.com/user-attachments/assets/30fb3e79-b4c9-4dc9-8223-71af3adf23bb)
 
-creating adf pipeline to copy arrayed json file to flatten and store it in adls storage account
+creating adf pipeline to copy arrayed json file to flatten and store it in adls storage account ![image](https://github.com/user-attachments/assets/f105a5bf-3cfc-43bc-b553-5f42e4da528f)
+
 
 ![image](https://github.com/user-attachments/assets/18a4b87a-7a07-409d-9560-be41a18e6124)
 
