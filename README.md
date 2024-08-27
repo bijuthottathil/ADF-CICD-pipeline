@@ -102,6 +102,36 @@ I got error, because parallism was not enabled. For that we need to submit reque
 
 ![image](https://github.com/user-attachments/assets/379c53f8-80bc-4fb8-9803-96a58a199660)
 
+Microsoft approved my request
+Take a look on  build
+
+Create Release from below. Or do a change in the pipeline and publish 
+
+![image](https://github.com/user-attachments/assets/68faf935-52df-4648-935a-0a4b73925e8c)
+
+
+Before release. no pipeline will be available in test env adf
+
+Release started
+
+![image](https://github.com/user-attachments/assets/1f65d404-91d6-48cf-b2ba-9c33875bb66c)
+
+![image](https://github.com/user-attachments/assets/2d598e25-5725-4de1-ad97-582acdd092e2)
+
+![image](https://github.com/user-attachments/assets/5e675fcb-e119-492b-b6c5-37cea58a25f4)
+![image](https://github.com/user-attachments/assets/6524546e-191e-4796-ab27-0cfe71c69a3b)
+
+![image](https://github.com/user-attachments/assets/3c311177-feb3-4f2f-8a85-8c48ab3200a5)
+
+Build and deployment is successfule
+
+All pipelines in Dev environment is deployed to Test environment now
+
+![image](https://github.com/user-attachments/assets/2324792a-1f24-40c7-9ffd-007edb47065c)
+
+
+
+
 
 Biju is still updating this repository
 
