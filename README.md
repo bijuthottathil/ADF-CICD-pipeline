@@ -133,7 +133,6 @@ All pipelines in Dev environment is deployed to Test environment now
 
 
 
-Biju is still updating this repository
 
 
 
