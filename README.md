@@ -1,4 +1,6 @@
 # ADF-CICD-pipeline
+![image](https://github.com/user-attachments/assets/712ed41f-4ae9-44f1-9e3e-dbe6dc209262)
+
 Created Organization in Azure Devops
 ![image](https://github.com/user-attachments/assets/93905ec3-f669-4f83-a53b-e591e6c8f5dd)
 
